@@ -18,7 +18,7 @@
           <br><br>
           <button name="btnMawey" class="btn-primary btn-xl js-scroll-trigger" 
           type="button" onClick="mostrar_mawey()">
-            Mawey Taco Bar <i class='fas fa-chevron-down'></i>
+            Mawey Taco Bar <i class='fas fa-chevron-up'></i>
           </button>
         </div>
         <div class="col-md-6 col-sm-6" style="text-align:center">
@@ -27,7 +27,7 @@
           <br><br>
           <button name="btnMawey" class="btn-primary btn-xl js-scroll-trigger" 
           type="button" onClick="mostrar_bournout()">
-          Burnout Burguers <i class='fas fa-chevron-down'></i>
+          Burnout Burguers <i class='fas fa-chevron-up'></i>
           </button>
         </div>       
   </section>
